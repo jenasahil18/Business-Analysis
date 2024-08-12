@@ -1,3 +1,4 @@
+**Business Analysis**
 
 **Business Analysis** is a comprehensive Power BI project designed to provide in-depth insights into critical aspects of employee management, salary distribution, and absence tracking. This project integrates employee data, salary information, and absence records into interactive dashboards, enabling users to explore and analyze key business metrics with ease and precision.
 
